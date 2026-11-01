@@ -24,4 +24,4 @@
 | No mobile-computing concept beyond a static UI yet (no on-device ML, no placement decision implemented) | Lab 10 (integrated concept) |
 
 ## One sentence
-> AI built a prototype fast, but only what we asked for. But what happens when an edge case (rotation, restart, offline) appears is not something the LLM could infer, it's up to us (devs) and the user to make a judgment call on what happens / should happen.
+AI built a prototype fast, but only what we asked for. But what happens when an edge case (rotation, restart, offline) appears is not something the LLM could infer, it's up to us (devs) and the user to make a judgment call on what happens / should happen.
